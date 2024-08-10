@@ -1,0 +1,374 @@
+[
+  {
+      "id": 1,
+      "ad": "Kısır",
+      "aciklama": "Türk mutfağının sevilen bir salatası. Özellikle yaz aylarında tercih edilir.",
+      "malzemeSayisi": 3,
+      "malzemeler": [
+          "Bulgur",
+          "Domates",
+          "Maydanoz"
+      ],
+      "fotoğraf": "assets/kisir.jpg",
+      "yapilis": "1. Bulguru sıcak su ile ıslatıp şişirin. 2. Domates ve maydanozu doğrayın. 3. Tüm malzemeleri karıştırın ve baharatlarla tatlandırın."
+  },
+  {
+      "id": 2,
+      "ad": "Menemen",
+      "aciklama": "Yumurtalı, domatesli ve biberli geleneksel bir Türk yemeği.",
+      "malzemeSayisi": 3,
+      "malzemeler": [
+          "Yumurta",
+          "Domates",
+          "Biber"
+      ],
+      "fotoğraf": "assets/menemen.jpg",
+      "yapilis": "1. Biberleri doğrayın ve tavada kavurun. 2. Domatesleri ekleyip pişirin. 3. Yumurtaları kırıp karıştırarak pişirin."
+  },
+  {
+      "id": 3,
+      "ad": "Ezogelin Çorbası",
+      "aciklama": "Bulgur, mercimek ve çeşitli baharatlarla yapılan besleyici bir çorba.",
+      "malzemeSayisi": 3,
+      "malzemeler": [
+          "Mercimek",
+          "Bulgur",
+          "Domates"
+      ],
+      "fotoğraf": "assets/ezogelin.jpg",
+      "yapilis": "1. Mercimek ve bulguru yıkayıp süzün. 2. Soğan ve domatesleri doğrayın. 3. Tüm malzemeleri tencereye ekleyip pişirin."
+  },
+  {
+      "id": 4,
+      "ad": "Patates Salatası",
+      "aciklama": "Haşlanmış patateslerle yapılan ve genellikle soğuk servis edilen bir salata.",
+      "malzemeSayisi": 3,
+      "malzemeler": [
+          "Patates",
+          "Mayonez",
+          "Tuz"
+      ],
+      "fotoğraf": "assets/patates_salatası.jpg",
+      "yapilis": "1. Patatesleri haşlayıp doğrayın. 2. Mayonez ve tuz ekleyin. 3. Karıştırıp buzdolabında soğutun."
+  },
+  {
+      "id": 5,
+      "ad": "Tavuk Sote",
+      "aciklama": "Küçük parçalara kesilmiş tavuk etinin sebzelerle sotelenmesiyle yapılan bir yemek.",
+      "malzemeSayisi": 4,
+      "malzemeler": [
+          "Tavuk",
+          "Soğan",
+          "Biber",
+          "Domates"
+      ],
+      "fotoğraf": "assets/tavuk_sote.jpg",
+      "yapilis": "1. Tavukları doğrayıp tavada kavurun. 2. Soğan, biber ve domatesleri ekleyin. 3. Pişene kadar kavurun ve baharatları ekleyin."
+  },
+  {
+      "id": 6,
+      "ad": "İskender Kebabı",
+      "aciklama": "Döner etinin yoğurt ve domates sosuyla servis edildiği geleneksel bir Türk yemeği.",
+      "malzemeSayisi": 4,
+      "malzemeler": [
+          "Döner Eti",
+          "Yoğurt",
+          "Domates Sosu",
+          "Pide"
+      ],
+      "fotoğraf": "assets/iskender.jpg",
+      "yapilis": "1. Döner etini pişirin. 2. Pide dilimlerini ısıtın. 3. Pideleri servis tabağına koyup üzerine döner etini yerleştirin. 4. Yoğurt ve domates sosu ekleyin."
+  },
+  {
+      "id": 7,
+      "ad": "Makarna Salatası",
+      "aciklama": "Makarna, sebzeler ve soslarla yapılan serinletici bir salata.",
+      "malzemeSayisi": 4,
+      "malzemeler": [
+          "Makarna",
+          "Biber",
+          "Domates",
+          "Zeytinyağı"
+      ],
+      "fotoğraf": "assets/makarna_salatası.jpg",
+      "yapilis": "1. Makarnayı haşlayıp süzün. 2. Biber ve domatesleri doğrayın. 3. Tüm malzemeleri karıştırıp zeytinyağı ile tatlandırın."
+  },
+  {
+      "id": 8,
+      "ad": "Mücver",
+      "aciklama": "Rendelenmiş kabak ve diğer sebzelerle yapılan bir tür Türk keki.",
+      "malzemeSayisi": 4,
+      "malzemeler": [
+          "Kabak",
+          "Un",
+          "Yumurta",
+          "Peynir"
+      ],
+      "fotoğraf": "assets/mucver.jpg",
+      "yapilis": "1. Kabakları rendeleyin ve suyunu sıkın. 2. Un, yumurta ve peyniri ekleyip karıştırın. 3. Karışımı tavada pişirin."
+  },
+  {
+      "id": 9,
+      "ad": "Bulgur Pilavı",
+      "aciklama": "Bulgur ve çeşitli sebzelerle yapılan bir tür pilav.",
+      "malzemeSayisi": 5,
+      "malzemeler": [
+          "Bulgur",
+          "Domates",
+          "Soğan",
+          "Biber",
+          "Zeytinyağı"
+      ],
+      "fotoğraf": "assets/bulgur_pilavi.jpg",
+      "yapilis": "1. Soğanı kavurun, biberleri ekleyin. 2. Bulguru ekleyip domatesleri doğrayın. 3. Su ekleyip pilavı pişirin."
+  },
+  {
+      "id": 10,
+      "ad": "Kuzu Kapama",
+      "aciklama": "Fırında pişirilen kuzu eti ve sebzelerle yapılan bir ana yemek.",
+      "malzemeSayisi": 5,
+      "malzemeler": [
+          "Kuzu Eti",
+          "Patates",
+          "Havuç",
+          "Soğan",
+          "Sarımsak"
+      ],
+      "fotoğraf": "assets/kuzu_kapama.jpg",
+      "yapilis": "1. Kuzu etini doğrayın ve sebzeleri hazırlayın. 2. Tüm malzemeleri fırın kabına koyup pişirin."
+  },
+  {
+      "id": 11,
+      "ad": "Pizza",
+      "aciklama": "İtalyan mutfağının ünlü hamur işi. Üzerine çeşitli malzemeler eklenir.",
+      "malzemeSayisi": 5,
+      "malzemeler": [
+          "Hamur",
+          "Mozzarella Peynir",
+          "Domates Sosu",
+          "Zeytin",
+          "Sosis"
+      ],
+      "fotoğraf": "assets/pizza.jpg",
+      "yapilis": "1. Hamuru açıp üzerine domates sosu sürün. 2. Peynir, zeytin ve sosis ekleyin. 3. Fırında pişirin."
+  },
+  {
+      "id": 12,
+      "ad": "Sebze Yemeği",
+      "aciklama": "Farklı sebzelerle hazırlanan hafif bir yemek.",
+      "malzemeSayisi": 5,
+      "malzemeler": [
+          "Patates",
+          "Havuç",
+          "Soğan",
+          "Biber",
+          "Domates"
+      ],
+      "fotoğraf": "assets/sebze_yemegi.jpg",
+      "yapilis": "1. Sebzeleri doğrayın ve tencerede kavurun. 2. Su ekleyip pişirin. 3. Baharatlarla tatlandırın."
+  },
+  {
+      "id": 13,
+      "ad": "Börek",
+      "aciklama": "İnce açılmış yufka ile yapılan ve çeşitli malzemelerle hazırlanan Türk böreği.",
+      "malzemeSayisi": 6,
+      "malzemeler": [
+          "Yufka",
+          "Peynir",
+          "Ispanak",
+          "Yumurta",
+          "Soğan",
+          "Zeytinyağı"
+      ],
+      "fotoğraf": "assets/borek.jpg",
+      "yapilis": "1. Yufkayı açın ve iç harcı hazırlayın. 2. Yufkanın içine peynir, ıspanak, yumurta ve soğanı koyun. 3. Böreği sarıp fırında pişirin."
+  },
+  {
+      "id": 14,
+      "ad": "Kuzu Tandır",
+      "aciklama": "Fırında pişirilen, baharatlarla marine edilmiş kuzu eti yemeği.",
+      "malzemeSayisi": 6,
+      "malzemeler": [
+          "Kuzu Eti",
+          "Soğan",
+          "Sarımsak",
+          "Domates",
+          "Havuç",
+          "Patates"
+      ],
+      "fotoğraf": "assets/kuzu_tandir.jpg",
+      "yapilis": "1. Kuzu etini marine edin ve sebzeleri doğrayın. 2. Tüm malzemeleri fırın tepsisine koyup pişirin."
+  },
+  {
+      "id": 15,
+      "ad": "Sarmalar",
+      "aciklama": "Üzerine iç harç sarılmış asma yaprağından yapılan geleneksel bir yemek.",
+      "malzemeSayisi": 6,
+      "malzemeler": [
+          "Asma Yaprağı",
+          "Kıyma",
+          "Pirinç",
+          "Soğan",
+          "Baharatlar",
+          "Zeytinyağı"
+      ],
+      "fotoğraf": "assets/sarmalar.jpg",
+      "yapilis": "1. İç harcı hazırlayın. 2. Asma yapraklarını haşlayın. 3. Harcı yaprakların içine sarıp pişirin."
+  },
+  {
+      "id": 16,
+      "ad": "Kısır",
+      "aciklama": "Bir tür bulgur salatası.",
+      "malzemeSayisi": 6,
+      "malzemeler": [
+          "Bulgur",
+          "Domates",
+          "Maydanoz",
+          "Nar Ekşisi",
+          "Limon",
+          "Tuz"
+      ],
+      "fotoğraf": "assets/kisir.jpg",
+      "yapilis": "1. Bulguru sıcak su ile ıslatıp şişirin. 2. Domates ve maydanozu doğrayın. 3. Nar ekşisi, limon ve tuz ile tatlandırın."
+  },
+  {
+      "id": 17,
+      "ad": "Mangal Köfte",
+      "aciklama": "Izgarada pişirilen baharatlı köfte.",
+      "malzemeSayisi": 7,
+      "malzemeler": [
+          "Kıyma",
+          "Soğan",
+          "Sarımsak",
+          "Tuz",
+          "Karabiber",
+          "Kimyon",
+          "Maydanoz"
+      ],
+      "fotoğraf": "assets/mangal_kofte.jpg",
+      "yapilis": "1. Kıymayı baharatlar ve soğan ile yoğurun. 2. Köfte şekli verip mangalda pişirin."
+  },
+  {
+      "id": 18,
+      "ad": "Zeytinyağlı Enginar",
+      "aciklama": "Zeytinyağında pişirilmiş enginar.",
+      "malzemeSayisi": 7,
+      "malzemeler": [
+          "Enginar",
+          "Zeytinyağı",
+          "Soğan",
+          "Havuç",
+          "Patates",
+          "Limon",
+          "Tuz"
+      ],
+      "fotoğraf": "assets/zeytinyagli_enginar.jpg",
+      "yapilis": "1. Enginarları temizleyin. 2. Soğan, havuç ve patatesi doğrayın. 3. Zeytinyağında pişirin, limon ve tuz ekleyin."
+  },
+  {
+      "id": 19,
+      "ad": "Tavuk Şiş",
+      "aciklama": "Izgarada pişirilen tavuk parçaları.",
+      "malzemeSayisi": 7,
+      "malzemeler": [
+          "Tavuk Eti",
+          "Yoğurt",
+          "Zeytinyağı",
+          "Limon",
+          "Sarimsak",
+          "Baharatlar",
+          "Tuz"
+      ],
+      "fotoğraf": "assets/tavuk_sis.jpg",
+      "yapilis": "1. Tavuk etini yoğurt, zeytinyağı, limon ve baharatlarla marine edin. 2. Şişlere takıp mangalda pişirin."
+  },
+  {
+      "id": 20,
+      "ad": "Kuzu Güveç",
+      "aciklama": "Kuzu etinin sebzelerle pişirildiği bir güveç yemeği.",
+      "malzemeSayisi": 7,
+      "malzemeler": [
+          "Kuzu Eti",
+          "Patates",
+          "Havuç",
+          "Soğan",
+          "Biber",
+          "Domates",
+          "Baharatlar"
+      ],
+      "fotoğraf": "assets/kuzu_güvec.jpg",
+      "yapilis": "1. Kuzu etini ve sebzeleri doğrayın. 2. Güveç kabına koyup pişirin."
+  },
+  {
+      "id": 21,
+      "ad": "Fırın Makarna",
+      "aciklama": "Fırında pişirilen makarna ve peynirle yapılan bir yemek.",
+      "malzemeSayisi": 8,
+      "malzemeler": [
+          "Makarna",
+          "Kıyma",
+          "Domates Sosu",
+          "Peynir",
+          "Süt",
+          "Un",
+          "Soğan",
+          "Zeytinyağı"
+      ],
+      "fotoğraf": "assets/firin_makarna.jpg",
+      "yapilis": "1. Makarnayı haşlayın. 2. Kıymayı kavurun, domates sosunu ekleyin. 3. Makarna ve sosu karıştırıp fırına verin. 4. Üzerine peynir serpin ve pişirin."
+  },
+  {
+      "id": 22,
+      "ad": "Kuzu Tandır",
+      "aciklama": "Fırında pişirilen, çeşitli baharatlarla marine edilmiş kuzu eti.",
+      "malzemeSayisi": 8,
+      "malzemeler": [
+          "Kuzu Eti",
+          "Soğan",
+          "Sarımsak",
+          "Zeytinyağı",
+          "Domates",
+          "Patates",
+          "Havuç",
+          "Baharatlar"
+      ],
+      "fotoğraf": "assets/kuzu_tandir.jpg",
+      "yapilis": "1. Kuzu etini ve sebzeleri doğrayıp zeytinyağı ve baharatlarla marine edin. 2. Fırın tepsisine koyup pişirin."
+  },
+  {
+      "id": 23,
+      "ad": "Börek",
+      "aciklama": "İnce açılmış yufka ve çeşitli iç harçlarla yapılan bir börek çeşidi.",
+      "malzemeSayisi": 8,
+      "malzemeler": [
+          "Yufka",
+          "Peynir",
+          "Ispanak",
+          "Soğan",
+          "Yumurta",
+          "Un",
+          "Tuz",
+          "Karabiber"
+      ],
+      "fotoğraf": "assets/borek.jpg",
+      "yapilis": "1. Yufkaları açın ve iç harcı hazırlayın. 2. Yufkanın üzerine peynir, ıspanak ve soğanı koyun. 3. Böreği sarıp fırında pişirin."
+  },
+  {
+      "id": 24,
+      "ad": "Sebzeli Kuzu İskender",
+      "aciklama": "Kuzu eti ve sebzelerle yapılan, yoğurtla servis edilen bir ana yemek.",
+      "malzemeSayisi": 8,
+      "malzemeler": [
+          "Kuzu Eti",
+          "Yoğurt",
+          "Pide",
+          "Soğan",
+          "Biber",
+          "Domates",
+          "Baharatlar",
+          "Zeytinyağı"
+      ],
+      "fotoğraf": "assets/sebzeli_kuzu_isender.jpg",
+      "yapilis": "1. Kuzu etini pişirin ve sebzeleri doğrayın. 2. Pide dilimlerini ısıtın. 3. Kuzu eti ve sebzeleri pidelerin üzerine koyun. 4. Üzerine yoğurt ve baharatlarla servis yapın."
+  }
+]
