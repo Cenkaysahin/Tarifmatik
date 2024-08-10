@@ -30,4 +30,8 @@ Bu proje, yemek tariflerini kullanıcıların belirlediği malzeme sayısına g�
 - **Python:** Google Programmable Search Engine API'si ile entegre edilen otomatik görsel indirme işlemleri için kullanıldı.
 - **Scrum:** Proje geliştirme sürecinde kullanılan metodoloji.
 
+## Proje ek detaylar
+- **Python:** Google Programmable Search Engine API'si ile entegre edilen otomatik görsel indirme işlemleri için kullanıldı.
+- Proje esnasında ihtiyacım olan görsel içerikleri tek tek indirmek yerine projenin içinde ki pythonla yazdığım Google Programmable Search Engine API ile görselleri otomatik olarak googledan çektim.
+
 Bu proje, kullanıcıların ihtiyaçlarına hızlı ve etkili bir şekilde yanıt veren, malzeme tabanlı tarif önerileri sunan bir web platformu olarak tasarlanmış ve geliştirilmiştir.
