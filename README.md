@@ -1,6 +1,6 @@
 # Malzeme Tabanlı Yemek Tarifi Web Sitesi
 
-Merhaba! Ben Cenkay Şahin. Flutter ile mobil uygulamalar geliştirmenin yanı sıra, HTML, CSS, JavaScript ve Python kullanarak web projeleri de geliştiriyorum. Bu proje, kullanıcıların belirli bir malzeme sayısını seçerek, o sayıda malzeme ile yapılabilecek yemek tariflerini bulmalarını ve bu tariflere kolayca ulaşmalarını sağlayan bir web sitesi olarak tasarlandı.
+Merhaba! Ben Cenkay Şahin. HTML, CSS, JavaScript ve Python kullanarak web projeleri  geliştiriyorum. Bu proje, kullanıcıların belirli bir malzeme sayısını seçerek, o sayıda malzeme ile yapılabilecek yemek tariflerini bulmalarını ve bu tariflere kolayca ulaşmalarını sağlayan bir web sitesi olarak tasarlandı.
 
 ## Proje Hakkında
 
