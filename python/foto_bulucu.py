@@ -4,8 +4,8 @@ from PIL import Image
 from io import BytesIO
 
 # Google Custom Search API anahtarınız ve arama motoru kimliğiniz
-API_KEY = 'AIzaSyCKk-LZSAIoeiS-aQIy362uk_pmwBmKj7M'
-CX = '51611107f29f04af3'
+API_KEY = ''
+CX = ''
 
 # Fotoğraf isimleri
 search_queries = [
