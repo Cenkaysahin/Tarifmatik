@@ -1,6 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
     const tabaklar = document.querySelectorAll('.tabak');
-    const wrapper = document.querySelector('.wrapper');
     const overlay = document.querySelector('.overlay');
     const ekGoruntu = document.querySelector('.ek-goruntu');
     const loadingOverlay = document.getElementById('loadingOverlay');
@@ -12,8 +11,8 @@ document.addEventListener('DOMContentLoaded', () => {
         tabak.addEventListener('click', () => {
             const malzemeSayisi = parseInt(tabak.textContent);
 
-            document.body.style.background = `url('assets/arkaplan2.png') no-repeat center center fixed`;
-            document.body.style.backgroundSize = 'cover';
+            overlay.style.background = `url('assets/arkaplan2.png') no-repeat center center fixed`;
+            overlay.style.backgroundSize = 'cover';
             document.body.style.backgroundPosition = 'center top';
 
             tabaklar.forEach(t => t.style.display = 'none');

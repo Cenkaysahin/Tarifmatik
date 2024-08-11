@@ -6,9 +6,8 @@ body {
     justify-content: center;
     align-items: center;
     overflow: hidden;
-    background: url('assets/arkaplan.png') no-repeat center center fixed;
     background-size: cover;
-    transition: background 0.5s ease;
+    transition: background .8s ease;
 }
 
 .wrapper {
@@ -33,9 +32,8 @@ body {
     height: 100vh;
     top: 0;
     left: 0;
-    background: url('assets/arkaplan2.png') no-repeat center center fixed;
+    background: url('assets/arkaplan.png') no-repeat center center fixed;
     background-size: cover;
-    z-index: 0;
     overflow-y: auto;
 }
 
@@ -149,6 +147,7 @@ body {
     flex-direction: row;
     width: 100%;
     align-items: center;
+    justify-content: center;
 }
 
 .tarif-item {
@@ -196,18 +195,15 @@ body {
 
 .tarif-detay {
     display: none; /* Başlangıçta gizleme */
-    position: fixed;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
-    width: 80%;
-    max-width: 800px;
+    width: 100%;
+    max-width: 300px;
     background: #fff;
     border: 1px solid #ddd;
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
     padding: 20px;
     z-index: 9999;
-    display: none;
     flex-direction: column;
     align-items: center;
     justify-content: center;
